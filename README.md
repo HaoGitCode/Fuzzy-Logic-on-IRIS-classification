@@ -15,5 +15,5 @@ Iris is a flower data set which include three different species setosa, virginic
 </p>
  
 <p align="center">
-  <img width="460" height="300" src="https://github.com/HaoGitCode/Fuzzy-Logic-on-IRIS-classification/blob/master/fuzzy_flowcahrt.png">
+  <img width="493" height="481" src="https://github.com/HaoGitCode/Fuzzy-Logic-on-IRIS-classification/blob/master/fuzzy_flowcahrt.png">
 </p>
