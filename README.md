@@ -10,5 +10,5 @@ Iris is a flower data set which include three different species setosa, virginic
   * **Input any number of rules.** After setting the antecedents and their consequents, users could continue to input the rules until they type "!" to finish setting.
   * **Input real-valued test data.** Now, the user is able to input their own test data. The input number should be real-valued like 3.5, 1.2 and 0.2. The user could keep testing by input different data until the user type "!" to stop the program.
 
-![Image of Yaktocat]
-(https://github.com/HaoGitCode/Fuzzy-Logic-on-IRIS-classification/blob/master/fuzzy_flowcahrt.png)
+
+![Image of Yaktocat](https://github.com/HaoGitCode/Fuzzy-Logic-on-IRIS-classification/blob/master/fuzzy_flowcahrt.png)
