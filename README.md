@@ -26,8 +26,8 @@ Iris is a flower data set which include three different species setosa, virginic
 <table>
     <thead>
         <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
+            <th>Species</th>
+            <th>Rules  </th>
         </tr>
     </thead>
     <tbody>
@@ -37,6 +37,9 @@ Iris is a flower data set which include three different species setosa, virginic
         </tr>
         <tr>
             <td>L3 Name C</td>
+        </tr>
+        <tr>
+            <td>L3 Name D</td>
         </tr>
     </tbody>
 </table>
