@@ -32,14 +32,14 @@ Iris is a flower data set which include three different species setosa, virginic
     </thead>
     <tbody>
         <tr>
-            <td rowspan=3>L1 Name</td>
-            <td rowspan=1>L2 Name A</td>
+            <td rowspan=3> Setosa </td>
+            <td rowspan=1>If sepal length is small and sepal width is large and pedal length is low and pedal width is narrow</td>
         </tr>
         <tr>
-            <td>L3 Name C</td>
+            <td>If sepal length is medium and sepal width is large and pedal length is low and pedal width is narrow</td>
         </tr>
         <tr>
-            <td>L3 Name D</td>
+            <td>If sepal length is low and sepal width is narrow and pedal length is low and pedal width is narrow </td>
         </tr>
     </tbody>
 </table>
