@@ -21,3 +21,31 @@ Iris is a flower data set which include three different species setosa, virginic
 |               | If sepal length is small and sepal width is large and pedal length is low and pedal width is narrow  | 
 |    Setosa     | If sepal length is medium and sepal width is large and pedal length is low and pedal width is narrow |   
 |               | If sepal length is low and sepal width is narrow and pedal length is low and pedal width is narrow   |   
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Layer 1</th>
+            <th>Layer 2</th>
+            <th>Layer 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4>L1 Name</td>
+            <td rowspan=2>L2 Name A</td>
+            <td>L3 Name A</td>
+        </tr>
+        <tr>
+            <td>L3 Name B</td>
+        </tr>
+        <tr>
+            <td rowspan=2>L2 Name B</td>
+            <td>L3 Name C</td>
+        </tr>
+        <tr>
+            <td>L3 Name D</td>
+        </tr>
+    </tbody>
+</table>
