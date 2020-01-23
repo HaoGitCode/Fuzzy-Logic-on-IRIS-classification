@@ -16,11 +16,6 @@ Iris is a flower data set which include three different species setosa, virginic
 </p>
 
 # Suggested input rules
-| Species       | Rules           | 
-| ------------- |:-------------:| 
-|               | If sepal length is small and sepal width is large and pedal length is low and pedal width is narrow  | 
-|    Setosa     | If sepal length is medium and sepal width is large and pedal length is low and pedal width is narrow |   
-|               | If sepal length is low and sepal width is narrow and pedal length is low and pedal width is narrow   |   
 
 
 <table>
@@ -33,7 +28,7 @@ Iris is a flower data set which include three different species setosa, virginic
     <tbody>
         <tr>
             <td rowspan=3> Setosa </td>
-            <td rowspan=1>If sepal length is small and sepal width is large and pedal length is low and pedal width is narrow</td>
+            <td>If sepal length is small and sepal width is large and pedal length is low and pedal width is narrow</td>
         </tr>
         <tr>
             <td>If sepal length is medium and sepal width is large and pedal length is low and pedal width is narrow</td>
